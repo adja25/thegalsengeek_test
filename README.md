@@ -1,2 +1,3 @@
 # thegalsengeek_test
-un test qui se passe plutôt bien!
+un test qui se passe plutÃ´t bien!
+Et maintenant on modifie depuis github
